@@ -203,7 +203,7 @@ class _GeoMapPageState extends State<GeoMapPage> {
     var screenSize = MediaQuery.of(context).size;
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Flutter Map (Deva)"),
+        title: const Text("Flutter Map (Syifa)"),
       ),
       body: Container(
         color: Colors.white,
